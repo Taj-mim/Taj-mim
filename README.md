@@ -20,7 +20,7 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
   <img src="https://github-readme-stats.vercel.app/api?username=Taj-mim&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taj-mim&theme=tokyonight" height="170"/>
 </p>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 BSc in Computer Science & Engineering at IUBAT
 - 💻 Learning Python, Django, APIs & SQL
