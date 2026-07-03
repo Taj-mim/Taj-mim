@@ -25,4 +25,4 @@ jobs:
       - name: Push generated files
         uses: jasineri/simple-push-action@v1
         with:
-          branch: main
+          branch: output
