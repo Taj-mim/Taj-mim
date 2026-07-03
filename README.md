@@ -10,8 +10,8 @@ Aspiring Full-Stack Developer From BD
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/taj-mim)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:tajmim915@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/taj-mim)
+![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:tajmim915@gmail.com)
 
 <p align="center">![](https://github-readme-stats.vercel.app/api?username=Taj-mim&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Taj-mim&theme=tokyonight)
