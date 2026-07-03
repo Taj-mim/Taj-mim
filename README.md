@@ -7,9 +7,7 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Django+Web+Developer" alt="Typing SVG" />
 </p>
-<p align="center">
- <img src="https://raw.githubusercontent.com/Taj-mim/Taj-mim/output/gitartwork.svg">
-</p>
+
   <a href="https://www.linkedin.com/in/taj-mim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
