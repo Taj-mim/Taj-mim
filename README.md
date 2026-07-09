@@ -18,7 +18,10 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
   <a href="mailto:tajmim915@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taj-mim&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Taj-mim&theme=tokyonight" height="170"/>
+</p>
 
 👨‍💻 About Me
 
