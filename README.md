@@ -18,11 +18,21 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
   <a href="mailto:tajmim915@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+<!-- Profile Summary -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taj-mim&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Taj-mim&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taj-mim&theme=tokyonight" width="95%"/>
 </p>
 
+<!-- Languages & Trophies -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taj-mim&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Taj-mim&theme=tokyonight&no-frame=true&row=2&column=3" width="55%"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taj-mim&theme=tokyo-night" width="95%"/>
+</p>
 👨‍💻 About Me
 
 - 🎓 BSc in Computer Science & Engineering at IUBAT
