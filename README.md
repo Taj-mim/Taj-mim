@@ -22,7 +22,7 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,php,django,mysql,git,github,vscode" />
 </p>-->
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Taj-mim&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 👨‍💻 About Me
 
