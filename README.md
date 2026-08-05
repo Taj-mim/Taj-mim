@@ -4,7 +4,9 @@
 Aspiring Full-Stack Developer from Bangladesh 🇧🇩
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=Taj-mim&label=Profile%20Views&color=0e75b6&style=flat">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taj-mim&label=Profile%20Views&color=0e75b6&style=flat">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Django+Web+Developer" alt="Typing SVG" />
