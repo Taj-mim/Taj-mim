@@ -9,7 +9,7 @@ Aspiring Full-Stack Developer from Bangladesh 🇧🇩
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Developer%7CDjango%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Developer%7CDjango%7CDRF" alt="Typing SVG" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./gitartwork-dark.svg">
